@@ -1,1 +1,1 @@
-nevre push 
+nevre push ["~"] 
